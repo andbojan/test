@@ -1,3 +1,4 @@
 ovo je test fajl
 drugi red
+dodat izmedju 2 i 3
 treci red
